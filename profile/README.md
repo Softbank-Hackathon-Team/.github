@@ -1,10 +1,8 @@
 <div align="center">
 
-# 🧭 KROSS · Zero Trust Migration
+<img src="https://raw.githubusercontent.com/Softbank-Hackathon-Team/.github/main/profile/assets/banner.svg" alt="KROSS · Zero Trust Migration · Cross Boundaries. Never Trust Blindly." width="100%">
 
 **Team Iron · SoftBank Hackathon 2026**
-
-### "Cross Boundaries. Never Trust Blindly."
 
 아무것도 내주지 않고, 출발 환경 그대로 어디로든.
 
